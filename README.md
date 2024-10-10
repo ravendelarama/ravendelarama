@@ -1,9 +1,54 @@
-# HI, I'M RYBN
-![profile](https://utfs.io/f/9f5a5976-2fee-4b0a-9cb8-e4db899df7cb-1i8k3.jpg)
+<img align="left" height="150" src="https://camo.githubusercontent.com/8c543a24600564e852502fa52513da92c8e09c29840a24ad6e2b9b302f02e9aa/68747470733a2f2f757466732e696f2f662f39663561353937362d326665652d346230612d396362382d6534646238393964663763622d3169386b332e6a7067"  />
 
-## Moods
-![trollface](https://64.media.tumblr.com/tumblr_m3hjvopb4o1r2ckpzo1_500.gifv)
-![cry](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm0xNDE4OHRlbXNocXdtNTNyNzNwemZ6eGRuNDhpdGNmOXExeDJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TW8Ma1a8ZsZ8I/giphy.webp)
-![mad](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm03d2h6enh5c283aWM2N3l6aDAwN2J6Z2pwYjFvbmhoa21maXBpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11tTNkNy1SdXGg/giphy.webp)
-![laugh](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1OTh4MmdrenN4bGwycXJxZWZ6ZnhsajM4dDJ0enptMzk4YW5ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J0WtGU7W9knOo/giphy.webp)
-![serious](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhsOGR6N2hjZGpnZnRhdHplNWxqdzdieWM4bGl1azJxZWd4ajY4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BY8ORoRpnJDXeBNwxg/giphy.webp)
+###
+
+<h3 align="left">RYBN</h3>
+
+###
+
+<h5 align="left"><b>0</b> posts&nbsp;&nbsp;&nbsp;&nbsp;<b>100M</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>1</b> following</h5>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ravendelarama/ravendelarama/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravendelarama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravendelarama&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=ravendelarama&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravendelarama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
