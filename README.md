@@ -7,9 +7,12 @@
 ###
 
 <h5 align="left"><b>0</b> posts&nbsp;&nbsp;&nbsp;&nbsp;<b>100M</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>1</b> following</h5>
+<h5 align="left">wave to earth</h5>
 
 ###
 
+<br clear="both">
+<br clear="both">
 <br clear="both">
 
 <div align="center">
@@ -36,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
 ###
 
 ###
@@ -45,10 +46,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravendelarama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravendelarama&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=ravendelarama&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravendelarama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravendelarama&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
