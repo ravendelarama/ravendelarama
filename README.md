@@ -1,11 +1,16 @@
+
+<div align="center">
 <img align="left" height="160" src="https://camo.githubusercontent.com/8c543a24600564e852502fa52513da92c8e09c29840a24ad6e2b9b302f02e9aa/68747470733a2f2f757466732e696f2f662f39663561353937362d326665652d346230612d396362382d6534646238393964663763622d3169386b332e6a7067"  />
 
 <div align="left">
-
 <h6 align="left">RXYBXN</h6>
 
 <img src="https://raw.githubusercontent.com/ravendelarama/ravendelarama/output/snake.svg" alt="Snake animation" height="100" />
 </div>
+</div>
+
+
+<br />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
